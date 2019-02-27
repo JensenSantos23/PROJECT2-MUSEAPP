@@ -1,0 +1,27 @@
+{
+  "name": "Project2-MuseApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JensenSantos23/Project2-MuseApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JensenSantos23/Project2-MuseApp/issues"
+  },
+  "homepage": "https://github.com/JensenSantos23/Project2-MuseApp#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
